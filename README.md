@@ -2,10 +2,12 @@
 
 VBA-challenge is a Stock Market Analysis VBA Module for Excel.
 
-[![Excel](https://img.shields.io/badge/Excel-VBA-<COLOR>.svg)](https://shields.io/)
+[![Excel](https://img.shields.io/badge/Excel_for_MAC-2020-<COLOR>.svg)](https://shields.io/)
+![GitHub top language](https://img.shields.io/github/languages/top/OlegRyzhkov2020/VBA-challenge)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![HitCount](http://hits.dwyl.com/OlegRyzhkov2020/VBA-challenge.svg)](http://hits.dwyl.com/OlegRyzhkov2020/VBA-challenge)
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/OlegRyzhkov2020/VBA-challenge/StrapDown.js/watchers/)
+![GitHub watchers](https://img.shields.io/github/watchers/OlegRyzhkov2020/VBA-challenge?label=Watch&style=social)
+![GitHub followers](https://img.shields.io/github/followers/OlegRyzhkov2020?label=Follow&style=social)
 
 ![Excel](images/Excel_Business_Analytics.jpg)
 
